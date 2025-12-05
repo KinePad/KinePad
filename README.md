@@ -1,28 +1,30 @@
 # <summary><strong>Hi there :wave: , My name is Silo Kusuma!</strong></summary>
 I am a student interested in programming.
-<img src="https://github-readme-stats.vercel.app/api?username=KinePad&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://www.instagram.com/yours/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
+ **this year i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+HTML   30 mins         █████████████████▓░░░░░░░   70 %
+PHP   40 mins         ████████████▒░░░░░░░░░░░░   48.91 %
+```
+
+<!--END_SECTION:waka-->
+
+If you want to give encouragement in the form of coffee or money, click here.
+
+<a href='https://ko-fi.com/F1F219JTXB' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
