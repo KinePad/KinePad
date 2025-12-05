@@ -16,6 +16,6 @@ If you want to give encouragement in the form of coffee or money, click here.
 
 social media
 
-Twitter: SiloKusuma
-Youtube: SiloKusuma1
+Twitter: SiloKusuma |
+Youtube: SiloKusuma1 |
 Tiktok: @silokusumasukses
